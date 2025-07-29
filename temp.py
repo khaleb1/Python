@@ -1,6 +1,6 @@
 
 
-unit = input("Is this tempeerature in Celsius or Fahrenh  eit (C/F) ") 
+unit = input("Is this temperature in Celsius or Fahrenheit (C/F) ") 
 temp = float(input("Enter the temperature: "))
 
 
